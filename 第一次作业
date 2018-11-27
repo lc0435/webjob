@@ -1,0 +1,20 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>第一次作业</title>
+</head>
+
+<body>我来自网络工程(body)
+
+<h>我来自网络工程（h）</h>
+<div>我来自网络工程（div）</div>
+<article>我来自网络工程（article）
+<p>
+我来自网络工程（p）
+</p></article>
+
+
+</body>
+</html>
